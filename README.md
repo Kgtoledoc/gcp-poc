@@ -6,9 +6,9 @@ Este proyecto implementa el despliegue de una aplicación web sencilla utilizand
 
 ## 🌐 URL de Acceso a la Aplicación
 
-**🔗 URL Principal:** http://34.121.204.39
+**🔗 URL Principal:** http://YOUR_EXTERNAL_IP_HERE
 
-**📱 IP Externa:** 34.121.204.39
+**📱 IP Externa:** YOUR_EXTERNAL_IP_HERE
 
 **✅ Estado:** FUNCIONANDO - Aplicación web accesible y operativa
 
@@ -49,7 +49,7 @@ Aplicación Web: "¡Bienvenido a la prueba técnica de GCP!"
 
 **Comando ejecutado:**
 ```bash
-curl -v http://34.121.204.39
+curl -v http://YOUR_EXTERNAL_IP_HERE
 ```
 
 **Resultado:**
@@ -61,7 +61,7 @@ curl -v http://34.121.204.39
 ### 2. Verificación en Navegador ✅
 ![Verificación Navegador](results/browser.png)
 
-**URL probada:** http://34.121.204.39
+**URL probada:** http://YOUR_EXTERNAL_IP_HERE
 
 **Resultado:**
 - ✅ Página web cargada correctamente
@@ -359,4 +359,4 @@ domina/
 
 El despliegue ha sido **100% exitoso**. La aplicación web está funcionando correctamente, accesible desde internet, y cumple con todos los requisitos del ejercicio técnico de GCP.
 
-**🔗 Acceso directo:** http://34.121.204.39
+**🔗 Acceso directo:** http://YOUR_EXTERNAL_IP_HERE
