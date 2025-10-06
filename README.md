@@ -6,9 +6,9 @@ Este proyecto implementa el despliegue de una aplicación web sencilla utilizand
 
 ## 🌐 URL de Acceso a la Aplicación
 
-**🔗 URL Principal:** http://YOUR_EXTERNAL_IP_HERE
+**🔗 URL Principal:** http://34.121.204.39
 
-**📱 IP Externa:** YOUR_EXTERNAL_IP_HERE
+**📱 IP Externa:** 34.121.204.39
 
 **✅ Estado:** FUNCIONANDO - Aplicación web accesible y operativa
 
