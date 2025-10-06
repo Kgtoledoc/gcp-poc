@@ -15,21 +15,7 @@ Este proyecto implementa el despliegue de una aplicación web sencilla utilizand
 ## 🏗️ Arquitectura Desplegada
 
 ### Diagrama de Arquitectura
-```
-Internet (0.0.0.0/0)
-    ↓
-Firewall Rules (HTTP:80,443 | SSH:22)
-    ↓
-VPC: web-app-vpc
-    ↓
-Subnet: web-app-subnet (us-central1, 10.0.1.0/24)
-    ↓
-Compute Engine: web-server-1 (e2-medium)
-    ↓
-Ubuntu 24.04 LTS + Nginx
-    ↓
-Aplicación Web: "¡Bienvenido a la prueba técnica de GCP!"
-```
+![Diagrama de Arquitectura](results/architecture.png)
 
 ### Componentes de la Infraestructura
 
